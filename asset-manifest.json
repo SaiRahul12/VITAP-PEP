@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/VITAP-PEP/static/css/main.eb4976a7.css",
+    "main.js": "/VITAP-PEP/static/js/main.e311c34b.js",
+    "static/media/frame-6@3x.png": "/VITAP-PEP/static/media/frame-6@3x.430c7547cfb1a8adf742.png",
+    "index.html": "/VITAP-PEP/index.html",
+    "main.eb4976a7.css.map": "/VITAP-PEP/static/css/main.eb4976a7.css.map",
+    "main.e311c34b.js.map": "/VITAP-PEP/static/js/main.e311c34b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb4976a7.css",
+    "static/js/main.e311c34b.js"
+  ]
+}
