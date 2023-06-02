@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=M+PLUS+1:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Odibee+Sans:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-m-plus-1: "M PLUS 1";
+  --font-odibee-sans: "Odibee Sans";
+  --font-inter: Inter;
+  --font-oswald: Oswald;
+
+  /* font sizes */
+  --font-size-16xl: 35px;
+  --font-size-6xl: 25px;
+  --font-size-xl: 20px;
+  --font-size-8xl: 27px;
+  --font-size-11xl: 30px;
+  --font-size-21xl: 40px;
+  --font-size-9xl: 28px;
+  --font-size-5xl: 24px;
+  --font-size-3xl: 22px;
+  --font-size-31xl: 50px;
+  --font-size-13xl: 32px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-gainsboro-100: #d9d9d9;
+  --color-gainsboro-400: rgba(217, 217, 217, 0.19);
+  --color-gainsboro-200: rgba(217, 217, 217, 0.17);
+  --color-gainsboro-300: rgba(217, 217, 217, 0.13);
+  --color-gainsboro-500: rgba(217, 217, 217, 0.14);
+  --color-gainsboro-600: rgba(217, 217, 217, 0.43);
+  --color-white: #fff;
+  --color-gray-100: #202020;
+  --color-gray-400: rgba(0, 0, 0, 0.5);
+  --color-gray-200: rgba(255, 254, 254, 0.11);
+  --color-gray-300: rgba(255, 255, 255, 0.4);
+  --color-dimgray: #4d4d4d;
+  --color-lightgray: #cbcbcb;
+  --color-deepskyblue: #02cdf9;
+  --color-darkgray: #979797;
+  --color-red: #ff0000;
+  --color-lime: #22f200;
+  --color-darkslategray: #313131;
+  --color-orange: #ff9900;
+
+  /* Paddings */
+  --padding-smi: 13px;
+  --padding-xs: 12px;
+
+  /* border radiuses */
+  --br-13xl: 32px;
+  --br-lgi: 19px;
+  --br-9xl: 28px;
+  --br-3xs: 10px;
+  --br-31xl: 50px;
+  --br-19xl: 38px;
+  --br-base: 16px;
+  --br-lg: 18px;
+}

@@ -1,0 +1,255 @@
+.studentsAreOffered {
+  margin: 0;
+}
+.studentsAreOfferedContainer {
+  position: absolute;
+  top: 436px;
+  left: 90px;
+  letter-spacing: 0.06em;
+}
+.velloreInstituteOfContainer,
+.vitApOffersDistinctiveContainer {
+  position: absolute;
+  top: 272px;
+  left: 595px;
+  font-size: var(--font-size-8xl);
+  letter-spacing: 0.06em;
+  white-space: pre-wrap;
+}
+.velloreInstituteOfContainer {
+  top: 154px;
+  left: 637px;
+  font-size: var(--font-size-16xl);
+  letter-spacing: 0.23em;
+  font-family: var(--font-odibee-sans);
+  display: inline-block;
+  width: 714px;
+  text-shadow: 0 4px 12px #000;
+  -webkit-text-stroke: 0.7px #fff;
+}
+.studentsCarryOutContainer {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.06em;
+}
+.studentsCarryOutHandsOnExParent {
+  position: absolute;
+  top: 627px;
+  left: 1043px;
+  width: 830px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameChild,
+.linesIcon {
+  position: absolute;
+  top: 288px;
+  left: 1377px;
+  width: 232px;
+  height: 48px;
+}
+.linesIcon {
+  top: 289px;
+  left: 310px;
+  width: 235px;
+}
+.vectorIcon {
+  height: 7.59%;
+  width: 4.01%;
+  top: 45.44%;
+  right: 22.92%;
+  bottom: 46.97%;
+  left: 73.07%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.frameItem,
+.vectorIcon,
+.vectorIcon1 {
+  position: absolute;
+  overflow: hidden;
+}
+.vectorIcon1 {
+  height: 8.41%;
+  width: 5.21%;
+  top: 66.36%;
+  right: 76.61%;
+  bottom: 25.23%;
+  left: 18.18%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.frameItem {
+  top: 627px;
+  left: 399px;
+  width: 9px;
+  height: 54px;
+}
+.studentsAreOfferedImmenseOParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 975px;
+  background-image: url(/public/frame-6@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  font-size: var(--font-size-xl);
+}
+.homeChild {
+  position: absolute;
+  top: 852px;
+  left: 0;
+  background: linear-gradient(180deg, transparent, #000);
+  width: 1920px;
+  height: 228px;
+}
+.homeItem {
+  position: absolute;
+  top: -78px;
+  left: 1258px;
+  border-radius: 50%;
+  background-color: var(--color-black);
+  filter: blur(579px);
+  width: 739px;
+  height: 243px;
+}
+.aboutUs,
+.logIn {
+  position: absolute;
+  letter-spacing: 0.06em;
+}
+.aboutUs {
+  top: 2px;
+  left: 917px;
+  display: inline-block;
+  width: 123px;
+  text-shadow: 0 4px 15px #000;
+}
+.logIn {
+  top: 4px;
+  left: 777px;
+  text-shadow: 0 4px 11px #000;
+  cursor: pointer;
+}
+.frameInner {
+  position: absolute;
+  top: -31px;
+  left: -35px;
+  width: 292px;
+  height: 126px;
+  object-fit: cover;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 2px;
+  left: 605px;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 49px rgba(0, 0, 0, 0.55);
+  filter: blur(1px);
+  width: 113px;
+  height: 44px;
+}
+.home1 {
+  position: absolute;
+  top: 4px;
+  left: 625px;
+  letter-spacing: 0.06em;
+  color: var(--color-black);
+}
+.aboutUsParent {
+  position: absolute;
+  top: 32px;
+  left: 849px;
+  width: 1040px;
+  height: 56px;
+  font-size: var(--font-size-6xl);
+}
+.page1 {
+  position: absolute;
+  top: 1251px;
+  left: 8px;
+  background-color: var(--color-gainsboro-100);
+  width: 1920px;
+  height: 1080px;
+}
+.homeInner {
+  left: -12px;
+  background-color: var(--color-black);
+  filter: blur(92px);
+  width: 1932px;
+  height: 240px;
+}
+.button,
+.div,
+.homeInner,
+.textfield {
+  position: absolute;
+  top: 1080px;
+}
+.div {
+  left: -249px;
+  border-radius: 23px;
+  background-color: var(--color-gainsboro-100);
+  width: 249px;
+  height: 436px;
+}
+.button,
+.textfield {
+  left: 824px;
+}
+.textfield {
+  left: 1920px;
+}
+.examTest,
+.login,
+.login1,
+.vitopia {
+  position: absolute;
+  display: inline-block;
+}
+.login {
+  top: 1300px;
+  left: 886px;
+  font-size: var(--font-size-21xl);
+  letter-spacing: 0.06em;
+  width: 148px;
+  height: 67px;
+  -webkit-text-stroke: 1px #fff;
+}
+.examTest,
+.login1,
+.vitopia {
+  top: 1860px;
+  left: 2177px;
+  letter-spacing: 0.23em;
+  font-family: var(--font-odibee-sans);
+  width: 214px;
+  text-shadow: 0 4px 12px #000;
+  -webkit-text-stroke: 0.7px #fff;
+}
+.login1,
+.vitopia {
+  top: 1850px;
+  left: 923px;
+  width: 157px;
+}
+.vitopia {
+  top: 1811px;
+  left: -217px;
+}
+.home {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-16xl);
+  color: var(--color-white);
+  font-family: var(--font-m-plus-1);
+}

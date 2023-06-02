@@ -1,0 +1,108 @@
+.menuChild {
+  position: absolute;
+  top: 0;
+  left: 17px;
+  border-radius: 0 var(--br-31xl) var(--br-31xl) 0;
+  background: linear-gradient(
+    -90deg,
+    rgba(73, 71, 116, 0.2),
+    rgba(0, 0, 0, 0.15)
+  );
+  box-shadow: 0 4px 32px #000;
+  width: 509px;
+  height: 900px;
+}
+.menuChild1,
+.menuChild2,
+.menuChild3,
+.menuInner,
+.menuItem,
+.rectangleDiv {
+  position: absolute;
+  top: 40px;
+  left: 0;
+  border-radius: var(--br-9xl);
+  background-color: var(--color-gray-200);
+  box-shadow: 0 4px 25px rgba(0, 0, 0, 0.76);
+  width: 489px;
+  height: 107px;
+}
+.menuChild1,
+.menuChild2,
+.menuChild3,
+.menuInner,
+.rectangleDiv {
+  top: 181px;
+}
+.menuChild1,
+.menuChild2,
+.menuChild3,
+.rectangleDiv {
+  top: 328px;
+  background-color: var(--color-gray-400);
+}
+.menuChild1,
+.menuChild2,
+.menuChild3 {
+  top: 476px;
+  background-color: var(--color-gray-200);
+}
+.menuChild2,
+.menuChild3 {
+  top: 614px;
+}
+.menuChild3 {
+  top: 752px;
+}
+.recentRecordings {
+  position: absolute;
+  top: 207px;
+  left: 69px;
+  letter-spacing: 0.06em;
+  text-shadow: 0 4px 14px #000;
+}
+.contactUs,
+.faq,
+.feedback,
+.resultsOverview,
+.settings {
+  position: absolute;
+  left: 74px;
+  letter-spacing: 0.06em;
+  text-shadow: 0 4px 14px #000;
+}
+.settings {
+  top: 360px;
+  color: var(--color-deepskyblue);
+}
+.contactUs,
+.faq,
+.feedback,
+.resultsOverview {
+  top: 504px;
+}
+.contactUs,
+.faq,
+.resultsOverview {
+  top: 646px;
+  left: 78px;
+}
+.contactUs,
+.resultsOverview {
+  top: 780px;
+}
+.resultsOverview {
+  top: 69px;
+  left: 69px;
+}
+.menu {
+  position: absolute;
+  top: 129px;
+  left: -17px;
+  width: 526px;
+  height: 900px;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  font-family: var(--font-m-plus-1);
+}

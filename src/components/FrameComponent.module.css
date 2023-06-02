@@ -1,0 +1,120 @@
+.materialSymbolsaddAPhotoO {
+  position: absolute;
+  top: 0;
+  left: 1236px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.frameChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-19xl);
+  background-color: var(--color-gainsboro-500);
+  box-shadow: 0 4px 65px #000;
+  width: 1236px;
+  height: 349px;
+}
+.span1 {
+  font-family: var(--font-oswald);
+}
+.span {
+  color: var(--color-white);
+}
+.fullNameContainer {
+  position: absolute;
+  top: 20px;
+  left: 684px;
+  letter-spacing: 0.02em;
+  color: var(--color-lightgray);
+}
+.span3 {
+  color: var(--color-white);
+  font-family: var(--font-oswald);
+}
+.registrationNumberContainer {
+  position: absolute;
+  top: 288px;
+  left: 684px;
+  letter-spacing: 0.02em;
+  color: var(--color-lightgray);
+}
+.applicationNumber {
+  color: var(--color-lightgray);
+}
+.applicationNumberContainer,
+.branchContainer {
+  position: absolute;
+  top: 235px;
+  left: 713px;
+  letter-spacing: 0.02em;
+}
+.branchContainer {
+  top: 179px;
+  left: 731px;
+}
+.mentorMobileNumberContainer,
+.mentorNameContainer {
+  position: absolute;
+  top: 125px;
+  left: 731px;
+  letter-spacing: 0.02em;
+}
+.mentorMobileNumberContainer {
+  top: 74px;
+  left: 717px;
+  color: var(--color-lightgray);
+}
+.span13 {
+  font-size: var(--font-size-11xl);
+}
+.kushajSolanki,
+.welcomeBack {
+  position: absolute;
+  font-size: var(--font-size-13xl);
+  letter-spacing: 0.15em;
+  font-family: var(--font-m-plus-1);
+}
+.kushajSolanki {
+  top: 178px;
+  left: 45px;
+  -webkit-text-stroke: 2px #fff;
+}
+.welcomeBack {
+  top: 113px;
+  left: 73px;
+}
+.frameItem {
+  position: absolute;
+  top: 72px;
+  left: 458px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-200);
+  box-shadow: 0 4px 37px #000;
+  width: 198px;
+  height: 198px;
+}
+.vectorIcon {
+  position: absolute;
+  height: 17.19%;
+  width: 5.71%;
+  top: 40.4%;
+  right: 52.94%;
+  bottom: 42.41%;
+  left: 41.35%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.materialSymbolsaddAPhotoOParent {
+  position: absolute;
+  top: 186px;
+  left: 216px;
+  width: 1260px;
+  height: 349px;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

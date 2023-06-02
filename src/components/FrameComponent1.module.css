@@ -1,0 +1,94 @@
+.frameChild {
+  top: 287px;
+  left: 348px;
+  background-color: var(--color-lightgray);
+  box-shadow: 0 4px 50px rgba(0, 0, 0, 0.73);
+  width: 406px;
+}
+.frameChild,
+.frameInner,
+.frameItem {
+  position: absolute;
+  border-radius: var(--br-3xs);
+  height: 50px;
+}
+.frameItem {
+  top: 384px;
+  left: 348px;
+  background-color: var(--color-lightgray);
+  box-shadow: 0 4px 69px rgba(0, 0, 0, 0.84);
+  width: 406px;
+}
+.frameInner {
+  cursor: pointer;
+  text-decoration: none;
+  top: 517px;
+  left: 434px;
+  background-color: var(--color-black);
+  box-shadow: 0 6px 34px #000;
+  width: 234px;
+}
+.login,
+.login1,
+.password,
+.registrationNumber {
+  position: absolute;
+  top: 394px;
+  left: 363px;
+  letter-spacing: 0.1em;
+}
+.login,
+.login1,
+.registrationNumber {
+  top: 297px;
+}
+.login,
+.login1 {
+  top: 524px;
+  left: 512px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  -webkit-text-stroke: 1px #fff;
+}
+.login1 {
+  top: 107px;
+  left: 490px;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  -webkit-text-stroke: 1.5px #000;
+}
+.rectangleA {
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  top: 517px;
+  left: 866px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-black);
+  box-shadow: 0 6px 34px #000;
+  width: 154px;
+  height: 50px;
+}
+.back {
+  position: absolute;
+  top: 518px;
+  left: 903px;
+  font-size: var(--font-size-11xl);
+  letter-spacing: 0.1em;
+  color: var(--color-white);
+}
+.rectangleParent {
+  position: absolute;
+  top: 228px;
+  left: 409px;
+  border-radius: var(--br-9xl);
+  background-color: var(--color-gray-300);
+  box-shadow: 0 15px 61px #000;
+  backdrop-filter: blur(4px);
+  width: 1102px;
+  height: 624px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray);
+  font-family: var(--font-m-plus-1);
+}

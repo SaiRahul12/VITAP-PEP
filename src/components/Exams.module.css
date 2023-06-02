@@ -1,0 +1,79 @@
+.examsChild,
+.examsInner,
+.examsItem,
+.rectangleDiv {
+  position: absolute;
+  top: 92px;
+  left: 37px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-gainsboro-400);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.39);
+  width: 140px;
+  height: 118px;
+}
+.examsInner,
+.examsItem,
+.rectangleDiv {
+  left: 219px;
+}
+.examsInner,
+.rectangleDiv {
+  top: 251px;
+  left: 37px;
+}
+.rectangleDiv {
+  left: 219px;
+}
+.phy {
+  margin: 0;
+}
+.phyTest {
+  position: absolute;
+  top: 115px;
+  left: 245px;
+  letter-spacing: 0.08em;
+}
+.cseViva {
+  top: 274px;
+  left: 57px;
+}
+.cat,
+.cseViva,
+.engTest,
+.upcomingExams {
+  position: absolute;
+  letter-spacing: 0.08em;
+}
+.cat {
+  top: 289px;
+  left: 257px;
+  font-size: var(--font-size-9xl);
+  color: var(--color-orange);
+}
+.engTest,
+.upcomingExams {
+  top: 113px;
+  left: 57px;
+}
+.upcomingExams {
+  top: 18px;
+  left: 43px;
+  font-size: var(--font-size-9xl);
+  letter-spacing: 0.11em;
+  color: var(--color-deepskyblue);
+  text-shadow: 0 4px 19px #000;
+}
+.exams {
+  position: absolute;
+  top: 590px;
+  left: 1493px;
+  border-radius: var(--br-19xl);
+  background-color: var(--color-gainsboro-500);
+  box-shadow: 0 4px 65px #000;
+  width: 396px;
+  height: 413px;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--font-m-plus-1);
+}

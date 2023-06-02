@@ -1,0 +1,59 @@
+.performance1 {
+  position: absolute;
+  top: 18px;
+  left: 239px;
+  letter-spacing: 0.11em;
+  text-shadow: 0 4px 19px #000;
+}
+.performanceChild {
+  position: absolute;
+  top: 108px;
+  left: 443px;
+  border-radius: 50%;
+  background: linear-gradient(-65.71deg, #02cdf9, #000 65.44%, #000);
+  box-shadow: 0 4px 13px #000;
+  width: 228px;
+  height: 228px;
+}
+.performanceItem {
+  position: absolute;
+  top: 121px;
+  left: 455px;
+  border-radius: 50%;
+  background-color: var(--color-darkslategray);
+  width: 204px;
+  height: 201px;
+}
+.div {
+  position: absolute;
+  top: 185px;
+  left: 504px;
+  font-size: var(--font-size-31xl);
+  letter-spacing: 0.11em;
+  font-family: var(--font-oswald);
+}
+.maths {
+  margin: 0;
+}
+.mathsPhysicsContainer {
+  position: absolute;
+  top: 86px;
+  left: 55px;
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.02em;
+  font-family: var(--font-inter);
+}
+.performance {
+  position: absolute;
+  top: 590px;
+  left: 216px;
+  border-radius: var(--br-19xl);
+  background-color: var(--color-gainsboro-500);
+  box-shadow: 0 4px 65px #000;
+  width: 741px;
+  height: 413px;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-white);
+  font-family: var(--font-m-plus-1);
+}

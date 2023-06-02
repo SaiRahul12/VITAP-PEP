@@ -1,0 +1,144 @@
+.dashboard1Child {
+  position: absolute;
+  top: 852px;
+  left: 0;
+  background: linear-gradient(180deg, transparent, #000);
+  width: 1920px;
+  height: 228px;
+}
+.dashboard1Item {
+  top: -78px;
+  left: 1258px;
+  border-radius: 50%;
+  background-color: var(--color-black);
+  filter: blur(579px);
+  width: 739px;
+  height: 243px;
+}
+.aboutUs,
+.dashboard1Item,
+.page1 {
+  position: absolute;
+}
+.page1 {
+  top: 0;
+  left: 8px;
+  background-color: var(--color-black);
+  width: 1920px;
+  height: 1080px;
+}
+.aboutUs {
+  top: 3px;
+  left: 1718px;
+  letter-spacing: 0.06em;
+  display: inline-block;
+  width: 123px;
+  text-shadow: 0 4px 15px #000;
+}
+.frameChild {
+  position: absolute;
+  top: -30px;
+  left: 766px;
+  width: 292px;
+  height: 126px;
+  object-fit: cover;
+}
+.frameItem,
+.menuIcon {
+  position: absolute;
+  cursor: pointer;
+}
+.menuIcon {
+  height: 61.4%;
+  width: 2.28%;
+  top: 19.3%;
+  right: 97.72%;
+  bottom: 19.3%;
+  left: 0;
+  border-radius: 5px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frameItem {
+  top: 0;
+  left: 1428px;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 49px rgba(0, 0, 0, 0.55);
+  filter: blur(1px);
+  width: 113px;
+  height: 44px;
+}
+.home,
+.logOut {
+  position: absolute;
+  top: 4px;
+  letter-spacing: 0.06em;
+}
+.home {
+  left: 1448px;
+  color: var(--color-black);
+}
+.logOut {
+  left: 1578px;
+  cursor: pointer;
+}
+.aboutUsParent,
+.dashboard1Inner {
+  position: absolute;
+  top: 31px;
+  left: 48px;
+  width: 1841px;
+  height: 57px;
+}
+.dashboard1Inner {
+  top: 348px;
+  left: 440px;
+  background: linear-gradient(180deg, #02f9ea, #eb00ff);
+  filter: blur(800px);
+  width: 1190px;
+  height: 446px;
+}
+.february {
+  position: relative;
+  letter-spacing: 0.23em;
+}
+.calenderChild {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height: 281px;
+  flex-shrink: 0;
+  object-fit: cover;
+  margin-top: -9px;
+}
+.calender {
+  position: absolute;
+  top: 186px;
+  left: 1493px;
+  border-radius: var(--br-19xl);
+  background-color: var(--color-gainsboro-500);
+  box-shadow: 0 4px 65px #000;
+  width: 392px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-smi) 0 var(--padding-smi) var(--padding-xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-16xl);
+  font-family: var(--font-odibee-sans);
+}
+.dashboard1 {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--font-m-plus-1);
+}
