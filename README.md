@@ -14,8 +14,6 @@ I took the initiative to design and develop an innovative AI proctored exam plat
 
 - **Performance Optimization:** Implemented performance optimization techniques to enhance the platform's responsiveness and reduce loading times, ensuring smooth user experience even during peak usage.
 
-**Outcome:**
-The AI proctored exam platform received positive feedback from the university faculty and students. It significantly improved the integrity of the examination process, minimized cheating incidents, and provided more efficient evaluation of programming assignments. The platform's user-friendly design contributed to high user adoption rates and improved overall satisfaction.
 
 **Technologies Used:**
 - ReactJS (JavaScript library for frontend development)
@@ -26,7 +24,7 @@ The AI proctored exam platform received positive feedback from the university fa
 
 
   Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
-
+  Backend integration is not yet done, Present its just frontend.
   To preview and run the project on your device:
   1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
   2) In the terminal, run `npm install`
